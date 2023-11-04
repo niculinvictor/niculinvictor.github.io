@@ -28,7 +28,7 @@ twitter_username: niculinvictor
 github_username:  niculinvictor
 
 # Build settings
-theme: architect
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
