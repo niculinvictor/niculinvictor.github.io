@@ -1,35 +1,149 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-25T16:13:33+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to my test post!</title><link href="http://localhost:4000/first/config/2023/10/25/myTestPost.html" rel="alternate" type="text/html" title="Welcome to my test post!" /><published>2023-10-25T16:03:10+03:00</published><updated>2023-10-25T16:03:10+03:00</updated><id>http://localhost:4000/first/config/2023/10/25/myTestPost</id><content type="html" xml:base="http://localhost:4000/first/config/2023/10/25/myTestPost.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-04T18:18:45+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevOps Culture</title><subtitle>🌍 &quot;Terraform: Because manually building your infrastructure is so last century! 🏗️ #Terraform #InfrastructureAsCode #Automation&quot; 🚀</subtitle><entry><title type="html">Welcome to my test post!</title><link href="http://localhost:4000/first/config/2023/10/25/myTestPost.html" rel="alternate" type="text/html" title="Welcome to my test post!" /><published>2023-10-25T16:03:10+03:00</published><updated>2023-10-25T16:03:10+03:00</updated><id>http://localhost:4000/first/config/2023/10/25/myTestPost</id><content type="html" xml:base="http://localhost:4000/first/config/2023/10/25/myTestPost.html"><![CDATA[<p>🌟 Understanding the Power of Git: Why It’s Essential for Modern Development 🌟</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<p>In the ever-evolving landscape of software development, one tool has consistently stood out and revolutionized the way we manage and track our code: Git.</p>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<p>🚀 A Glimpse of Git’s Importance:</p>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>Version Control: Git allows multiple versions of a project, ensuring developers can roll back, compare, or merge changes with ease.
+Collaboration: With platforms like GitHub and GitLab, developers worldwide can collaborate seamlessly. Whether it’s open-source contributions or team projects, Git simplifies the collaborative process.
+Backup &amp; Restore: Every cloned repository acts as a full backup of the codebase, ensuring data integrity and redundancy.
+Branching &amp; Merging: Developers can branch out from the main codebase to work on features or fixes without disturbing the primary code. Once ready, these branches can be merged back smoothly.
+Accountability: Git’s commit history acts as a detailed log, attributing every change to its author, fostering responsibility and clarity.
+In essence, Git is not just a tool but a philosophy of efficient and collaborative code management. For any developer, understanding Git is a step towards more organized, efficient, and team-friendly coding.</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>Join the Git revolution, and harness the power of efficient code management! ✨</p>]]></content><author><name></name></author><category term="first" /><category term="config" /><summary type="html"><![CDATA[🌟 Understanding the Power of Git: Why It’s Essential for Modern Development 🌟]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll-copy-2.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-10-25T16:03:10+03:00</published><updated>2023-10-25T16:03:10+03:00</updated><id>http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll%20copy%202</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll-copy-2.html"><![CDATA[<h1 id="the-importance-of-git-in-modern-development">The Importance of Git in Modern Development</h1>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p>When it comes to modern software development, version control is non-negotiable, and <strong>Git</strong> stands out as the de facto standard.</p>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+<h2 id="what-is-git">What is Git?</h2>
 
-<p>ß</p>]]></content><author><name></name></author><category term="first" /><category term="config" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-10-25T16:03:10+03:00</published><updated>2023-10-25T16:03:10+03:00</updated><id>http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<p>Git is a distributed version control system. It tracks changes in the source code during software development and allows multiple developers to collaborate on a single project.</p>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<h2 id="why-is-git-essential">Why is Git Essential?</h2>
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<ol>
+  <li><strong>Collaboration</strong>: Multiple developers can work on the same project concurrently without stepping on each other’s toes.</li>
+  <li><strong>Versioning</strong>: Git keeps a history of all changes, allowing teams to revert to previous versions if necessary.</li>
+  <li><strong>Branching</strong>: Developers can create branches to test new ideas without affecting the main project.</li>
+  <li><strong>Local Access</strong>: Work offline and sync up changes later. Git’s distributed nature means every developer has a full-fledged version of the project on their machine.</li>
+  <li><strong>Integration</strong>: Git integrates seamlessly with popular platforms like <a href="https://github.com/">GitHub</a> and <a href="https://gitlab.com/">GitLab</a>, facilitating collaborative and open-source development.</li>
+</ol>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<h2 id="in-conclusion">In Conclusion</h2>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p>In today’s fast-paced development environment, Git is more than just a tool; it’s an essential skill for developers. Embracing Git means embracing a workflow that promotes collaboration, innovation, and agility.</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<hr />
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p><em>Stay updated with more tech insights and coding best practices on our blog!</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[The Importance of Git in Modern Development]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll-copy-3.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-10-25T16:03:10+03:00</published><updated>2023-10-25T16:03:10+03:00</updated><id>http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll%20copy%203</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll-copy-3.html"><![CDATA[<h1 id="the-importance-of-git-in-modern-development">The Importance of Git in Modern Development</h1>
+
+<p>When it comes to modern software development, version control is non-negotiable, and <strong>Git</strong> stands out as the de facto standard.</p>
+
+<h2 id="what-is-git">What is Git?</h2>
+
+<p>Git is a distributed version control system. It tracks changes in the source code during software development and allows multiple developers to collaborate on a single project.</p>
+
+<h2 id="why-is-git-essential">Why is Git Essential?</h2>
+
+<ol>
+  <li><strong>Collaboration</strong>: Multiple developers can work on the same project concurrently without stepping on each other’s toes.</li>
+  <li><strong>Versioning</strong>: Git keeps a history of all changes, allowing teams to revert to previous versions if necessary.</li>
+  <li><strong>Branching</strong>: Developers can create branches to test new ideas without affecting the main project.</li>
+  <li><strong>Local Access</strong>: Work offline and sync up changes later. Git’s distributed nature means every developer has a full-fledged version of the project on their machine.</li>
+  <li><strong>Integration</strong>: Git integrates seamlessly with popular platforms like <a href="https://github.com/">GitHub</a> and <a href="https://gitlab.com/">GitLab</a>, facilitating collaborative and open-source development.</li>
+</ol>
+
+<h2 id="in-conclusion">In Conclusion</h2>
+
+<p>In today’s fast-paced development environment, Git is more than just a tool; it’s an essential skill for developers. Embracing Git means embracing a workflow that promotes collaboration, innovation, and agility.</p>
+
+<hr />
+
+<p><em>Stay updated with more tech insights and coding best practices on our blog!</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[The Importance of Git in Modern Development]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll-copy-4.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-10-25T16:03:10+03:00</published><updated>2023-10-25T16:03:10+03:00</updated><id>http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll%20copy%204</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll-copy-4.html"><![CDATA[<h1 id="terraform-infrastructure-setup">Terraform Infrastructure Setup</h1>
+
+<p>This repository contains the Terraform configuration files to set up and manage our cloud infrastructure.</p>
+
+<h2 id="table-of-contents">Table of Contents</h2>
+
+<ul>
+  <li><a href="#prerequisites">Prerequisites</a></li>
+  <li><a href="#getting-started">Getting Started</a></li>
+  <li><a href="#deploying-infrastructure">Deploying Infrastructure</a></li>
+  <li><a href="#destroying-infrastructure">Destroying Infrastructure</a></li>
+  <li><a href="#variables-and-configurations">Variables and Configurations</a></li>
+  <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#license">License</a></li>
+</ul>
+
+<h2 id="prerequisites">Prerequisites</h2>
+
+<ul>
+  <li>Terraform v1.x.x (Ensure you have the <a href="https://www.terraform.io/downloads.html">latest version</a> installed)</li>
+  <li>A configured cloud provider CLI (e.g., AWS CLI, Azure CLI)</li>
+  <li>Properly set up authentication credentials for your cloud provider</li>
+</ul>
+
+<h2 id="getting-started">Getting Started</h2>
+
+<ol>
+  <li>Clone this repository:
+```bash
+git clone https://github.com/YOUR_USERNAME/terraform-infrastructure.git
+cd terraform-infrastructure</li>
+</ol>
+
+<h2 id="in-conclusion">In Conclusion</h2>
+
+<p>In today’s fast-paced development environment, Git is more than just a tool; it’s an essential skill for developers. Embracing Git means embracing a workflow that promotes collaboration, innovation, and agility.</p>
+
+<hr />
+
+<p><em>Stay updated with more tech insights and coding best practices on our blog!</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Terraform Infrastructure Setup]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll-copy.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-10-25T16:03:10+03:00</published><updated>2023-10-25T16:03:10+03:00</updated><id>http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll%20copy</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll-copy.html"><![CDATA[<h1 id="the-importance-of-git-in-modern-development">The Importance of Git in Modern Development</h1>
+
+<p>When it comes to modern software development, version control is non-negotiable, and <strong>Git</strong> stands out as the de facto standard.</p>
+
+<h2 id="what-is-git">What is Git?</h2>
+
+<p>Git is a distributed version control system. It tracks changes in the source code during software development and allows multiple developers to collaborate on a single project.</p>
+
+<h2 id="why-is-git-essential">Why is Git Essential?</h2>
+
+<ol>
+  <li><strong>Collaboration</strong>: Multiple developers can work on the same project concurrently without stepping on each other’s toes.</li>
+  <li><strong>Versioning</strong>: Git keeps a history of all changes, allowing teams to revert to previous versions if necessary.</li>
+  <li><strong>Branching</strong>: Developers can create branches to test new ideas without affecting the main project.</li>
+  <li><strong>Local Access</strong>: Work offline and sync up changes later. Git’s distributed nature means every developer has a full-fledged version of the project on their machine.</li>
+  <li><strong>Integration</strong>: Git integrates seamlessly with popular platforms like <a href="https://github.com/">GitHub</a> and <a href="https://gitlab.com/">GitLab</a>, facilitating collaborative and open-source development.</li>
+</ol>
+
+<h2 id="in-conclusion">In Conclusion</h2>
+
+<p>In today’s fast-paced development environment, Git is more than just a tool; it’s an essential skill for developers. Embracing Git means embracing a workflow that promotes collaboration, innovation, and agility.</p>
+
+<hr />
+
+<p><em>Stay updated with more tech insights and coding best practices on our blog!</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[The Importance of Git in Modern Development]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-10-25T16:03:10+03:00</published><updated>2023-10-25T16:03:10+03:00</updated><id>http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/10/25/welcome-to-jekyll.html"><![CDATA[<h1 id="the-importance-of-git-in-modern-development">The Importance of Git in Modern Development</h1>
+
+<p>When it comes to modern software development, version control is non-negotiable, and <strong>Git</strong> stands out as the de facto standard.</p>
+
+<h2 id="what-is-git">What is Git?</h2>
+
+<p>Git is a distributed version control system. It tracks changes in the source code during software development and allows multiple developers to collaborate on a single project.</p>
+
+<h2 id="why-is-git-essential">Why is Git Essential?</h2>
+
+<ol>
+  <li><strong>Collaboration</strong>: Multiple developers can work on the same project concurrently without stepping on each other’s toes.</li>
+  <li><strong>Versioning</strong>: Git keeps a history of all changes, allowing teams to revert to previous versions if necessary.</li>
+  <li><strong>Branching</strong>: Developers can create branches to test new ideas without affecting the main project.</li>
+  <li><strong>Local Access</strong>: Work offline and sync up changes later. Git’s distributed nature means every developer has a full-fledged version of the project on their machine.</li>
+  <li><strong>Integration</strong>: Git integrates seamlessly with popular platforms like <a href="https://github.com/">GitHub</a> and <a href="https://gitlab.com/">GitLab</a>, facilitating collaborative and open-source development.</li>
+</ol>
+
+<h2 id="in-conclusion">In Conclusion</h2>
+
+<p>In today’s fast-paced development environment, Git is more than just a tool; it’s an essential skill for developers. Embracing Git means embracing a workflow that promotes collaboration, innovation, and agility.</p>
+
+<hr />
+
+<p><em>Stay updated with more tech insights and coding best practices on our blog!</em></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[The Importance of Git in Modern Development]]></summary></entry></feed>
